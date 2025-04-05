@@ -4,9 +4,9 @@ import Movies from "../components/Movies";
 function Home(){
     return (
         <>
-            <div className="flex flex-wrap gap-4 w-[95%] mx-auto mt-4">
+            <div className="mx-auto mt-4 flex flex-wrap gap-4 w-[94%]">
             {
-                Movies.map (m => <MovieCard img={m.image} name={m.title} ></MovieCard> )
+                Movies.map (m => <MovieCard img={m.image} name={m.title} slug={m.slug}></MovieCard> )
             }
             </div>
         </>

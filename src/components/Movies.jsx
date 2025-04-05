@@ -148,12 +148,12 @@ const Movies = [
         slug: "her",
         genre: "Drama, Romance, Sci-Fi",
         year: 2013,
-        image: "https://pics.filmaffinity.com/Her-291588781-large.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBP7r0Q4wbG92TFdxkrvO7H6Fl3pnAua9jKvqq_rzPqJCBY35CS20jkMf8Fx0jq2AQ46c&usqp=CAU",
         description: "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
         imdb_rating: 8.0,
         actor: "Joaquin Phoenix, Scarlett Johansson (voice)",
         director: "Spike Jonze",
-        youtube_trailer: "https://www.youtube.com/watch?v=WzV6mXIOVl4"
+        youtube_trailer: "https://youtu.be/dJTU48_yghs?feature=shared"
       }
   ];
   
